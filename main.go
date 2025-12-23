@@ -105,7 +105,7 @@ func (a *App) buildMainContent() *gtk.Box {
 	mainBox.Append(titleLabel)
 
 	// Description
-	descLabel := gtk.NewLabel("This demonstrates the GTK4/Adwaita FileDialog.Open() method\nwith proper type casting and callback handling.")
+	descLabel := gtk.NewLabel("This demonstrates the GTK4/Adwaita FileDialog.Open() method\nwith proper type casting and callback handling")
 	descLabel.AddCSSClass("body")
 	descLabel.SetWrap(true)
 	mainBox.Append(descLabel)

@@ -14,4 +14,4 @@ For a good example of how this file dialog is used in a more significant project
 
 ## Installation
 
-A note on installation: since the GTK4/Adwaita packages ([GoTK4](https://github.com/diamondburned/gotk4)/[GoTK4-Adwaita](https://github.com/diamondburned/gotk4-adwaita)) require local compilation (they native libraries are written in C), expect a delay in first-time application execution (~10-15 minutes depending on CPU speed).
+A note on installation: since the GTK4/Adwaita packages ([GoTK4](https://github.com/diamondburned/gotk4)/[GoTK4-Adwaita](https://github.com/diamondburned/gotk4-adwaita)) require local compilation (the native libraries are written in C), expect a delay in first-time application execution (~10-15 minutes depending on CPU speed).
